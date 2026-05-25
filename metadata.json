@@ -1,0 +1,8 @@
+{
+  "name": "Remix: تشخيص الوعي الفونولوجي للأطفال",
+  "description": "تطبيق متكامل وسحابي لتشخيص صعوبات التعلم والوعي الفونولوجي للأطفال مع ألعاب صوتية تفاعلية لتنمية مخارج الحروف ولوحة قيادة لمتابعة الأخصائيين والأسرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
